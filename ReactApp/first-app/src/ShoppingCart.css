@@ -1,0 +1,15 @@
+.ShoppingCart{
+    border: 2px solid purple;
+    width: 400px;
+    margin: 20px;
+}
+
+.ShoppingCart-header{
+    text-align: center;
+}
+
+.ShoppingCart-total{
+    font-size: 2rem;
+    color: mediumpurple;
+    background-color: lightblue;
+}
